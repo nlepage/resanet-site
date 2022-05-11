@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "description": "Site vitrine de resanet",
   "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "dependencies": {
+    "parcel": "^2.5.0"
   }
 }
